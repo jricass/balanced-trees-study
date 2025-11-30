@@ -2,7 +2,7 @@
 
 Este repositório contém o código-fonte e a documentação para o projeto de **Estudo, Pesquisa e Modelagem de Árvores Binárias, Árvore 2-3-4 não-binária e Algoritmos de Balanceamento**.
 
-O objetivo é implementar e analisar estruturas de dados avançadas, demonstrando seus mecanismos de inserção, remoção, busca e balanceamento, sem o uso de bibliotecas prontas para a lógica das árvores.
+O objetivo é implementar e analisar estruturas de dados avançadas, demonstrando seus mecanismos de inserção, remoção, busca e balanceamento.
 
 ## 📋 Estruturas Implementadas
 
@@ -22,8 +22,6 @@ As seguintes estruturas foram abordadas neste projeto:
     *   (Explicação e demonstração conforme requisitos)
 
 ## 🚀 Como Executar
-
-Este projeto utiliza **Jupyter Notebooks** para combinar código, explicações e visualizações.
 
 ### Pré-requisitos
 
@@ -77,7 +75,6 @@ balanced-trees-study/
 *   **Implementação Manual**: Uso de nós e referências, sem bibliotecas de árvore.
 *   **Operações**: Inserção, Exclusão e Busca com balanceamento.
 *   **Visualização**: Plotagem gráfica das árvores.
-*   **Volume de Dados**: Testes com no mínimo 21 nós.
 
 ---
-*Projeto desenvolvido para a disciplina de Estrutura de Dados.*
+*Projeto desenvolvido para a disciplina de Teoria de Grafos.*
